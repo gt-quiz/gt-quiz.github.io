@@ -1,139 +1,71 @@
 const QUESTIONS = [
     {
         question: 'What parts does the UK consist of?',
-        answers: [
-            'England, Scotland, Wales, Northern Ireland',
-            'England, Scotland, Wales',
-            'England, Wales, Northern Ireland'
-        ]
+        answers: [ 'England, Scotland, Wales, Northern Ireland', 'England, Scotland, Wales', 'England, Wales, Northern Ireland' ]
     },
     {
         question: 'What river is the British capital situated on?',
-        answers: [
-            'on the Thames',
-            'on the Severn',
-            'on the Mississippi',
-        ]
+        answers: [ 'on the Thames', 'on the Severn', 'on the Mississippi' ]
     },
     {
         question: 'What is the capital of Scotland?',
-        answers: [
-            'Edinburgh',
-            'Belfast',
-            'Cardiff',
-        ]
+        answers: [ 'Edinburgh', 'Belfast', 'Cardiff' ]
     },
     {
         question: 'What is the capital of Northern Ireland?',
-        answers: [
-            'Belfast',
-            'Edinburgh',
-            'Cardiff',
-        ]
+        answers: [ 'Belfast', 'Edinburgh', 'Cardiff' ]
     },
     {
         question: 'What is the London home of the Queen?',
-        answers: [
-            'Buckingham Palace',
-            'Westminster Palace',
-            'The Houses of Parliament',
-        ]
+        answers: [ 'Buckingham Palace', 'Westminster Palace', 'The Houses of Parliament' ]
     },
     {
         question: 'What birds live in the Tower of London?',
-        answers: [
-            'Ravens',
-            'Sparrows',
-            'Woodpeckers',
-        ]
+        answers: [ 'Ravens', 'Sparrows', 'Woodpeckers' ]
     },
     {
         question: 'What is in the centre of Trafalgar Square?',
-        answers: [
-            'Nelson’s Column',
-            'the Monument to Queen',
-            'the Monument to Peter Pan',
-        ]
+        answers: [ 'Nelson’s Column', 'the Monument to Queen', 'the Monument to Peter Pan' ]
     },
     {
         question: 'What city are the Beatles from?',
-        answers: [
-            'Liverpool',
-            'Manchester',
-            'London',
-        ]
+        answers: [ 'Liverpool', 'Manchester', 'London' ]
     },
     {
-        question: 'What famous Scottish hero did Mel Gigson play in the film ‘Braveheart’?',
-        answers: [
-            'William Wallace',
-            'Winston Churchill',
-            'Charles Darwin',
-        ]
+        question: 'What famous Scottish hero did Mel Gibson play in the film ‘Braveheart’?',
+        answers: [ 'William Wallace', 'Winston Churchill', 'Charles Darwin' ]
     },
     {
         question: 'What is the most typical English dish?',
-        answers: [
-            'fish and chips',
-            'burgers',
-            'pancakes',
-        ]
+        answers: [ 'fish and chips', 'burgers', 'pancakes' ]
     },
     {
         question: 'What is the name of the highest observation wheel in London?',
-        answers: [
-            'London Eye',
-            'London Ear',
-            'London Head',
-        ]
+        answers: [ 'London Eye', 'London Ear', 'London Head' ]
     },
     {
         question: 'When did the famous Great Fire of London happen?',
-        answers: [
-            '1666',
-            '1656',
-            '1965',
-        ]
+        answers: [ '1666', '1656', '1965' ]
     },
     {
         question: 'What is the name of the British Flag?',
-        answers: [
-            'Union Jack',
-            'Uncle Sam',
-            'Elton John',
-        ]
+        answers: [ 'Union Jack', 'Uncle Sam', 'Elton John' ]
     },
     {
         question: 'Who lived in Sherwood Forest?',
-        answers: [
-            'Robin Hood',
-            'William Shakespeare',
-            'David Beckham',
-        ]
+        answers: [ 'Robin Hood', 'William Shakespeare', 'David Beckham' ]
     },
     {
         question: 'Who was called “An Iron Lady”?',
-        answers: [
-            'Margaret Thatcher',
-            'Elizabeth I',
-            'Jane Austen',
-        ]
+        answers: [ 'Margaret Thatcher', 'Elizabeth I', 'Jane Austen' ]
     },
     {
         question: 'Where is the Loch Ness Monster from?',
-        answers: [
-            'Scotland',
-            'Wales',
-            'England',
-        ]
+        answers: [ 'Scotland', 'Wales', 'England' ]
     },
     {
         question: 'What is the most important airport in Great Britain?',
-        answers: [
-            'Heathrow Airport',
-            'Stansted Airport',
-            'Gatwick Airport',
-        ]
+        answers: [ 'Heathrow Airport', 'Stansted Airport', 'Gatwick Airport' ]
     },
 ]
 

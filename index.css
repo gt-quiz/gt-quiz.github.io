@@ -5,6 +5,7 @@
 #root
 {
   background: #444 url("london.jpg") center;
+  background-size: cover;
     position: fixed;
     top: 0;
     right: 0;
